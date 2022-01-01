@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #AEB6BF;
+    background-color: #DB6F16;
 }
 
 .quem-somos {
@@ -13,4 +13,13 @@
 
 .parceiros {
     background-color: #F39C12;
+}
+
+.servicos {
+    background-color: #EBCC05;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
